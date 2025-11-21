@@ -1,44 +1,22 @@
-° Sistema de Cadastro de Alunos
+° Lista de Tarefas em Python
 
-Projeto simples de cadastro de alunos desenvolvido em Python com integração ao MySQL. Permite cadastrar, listar, buscar, editar e deletar registros de alunos.
+Um sistema simples de gerenciamento de tarefas criado como parte do meu estudo de Python.
 
-° Funcionalidades
+° 🧠 Funcionalidades
 
-- Cadastrar aluno (nome, idade, contato)
-- Listar todos os alunos
-- Buscar aluno por nome
-- Editar dados do aluno
-- Deletar aluno
+Adicionar tarefas
+Listar tarefas
+Remover tarefas por índice
+Menu interativo
+Tratamento de erros
+° 🚀 Tecnologias
 
-° Tecnologias Utilizadas
+Python 3
+° 📚 Conceitos utilizados
 
-- Python 3
-- mysql-connector-python
+Listas
+Estruturas de repetição (while)
+Condicionais (if)
+Funções internas como enumerate() e len()
 
-## Instalação
-
-1. Clone o repositório:
-
-
-git clone https://github.com/viniciusfonseca19/sistema-de-cadastro-python.git
-
-
-2. Instale as dependências:
-
-
-pip install mysql-connector-python
-
-
-3. Configure o banco de dados MySQL (crie o banco `alunos_db` e a tabela `alunos` conforme o script fornecido).
-
-° Como Usar
-
-Execute o script principal:
-
-python main.py
-
-Siga as opções do menu para realizar as operações.
-
-° Agradecimentos
-
-Este projeto foi desenvolvido com orientação e suporte para boas práticas de integração Python + MySQL.
+° 👤 Autor Vinícius Fonseca (Vini)
